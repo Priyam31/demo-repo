@@ -1,3 +1,3 @@
 # Demo
 
-Have a description of the project here.
+Have a description of the project here. Let's begin!
